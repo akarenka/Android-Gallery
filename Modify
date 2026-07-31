@@ -1,0 +1,6 @@
+Supports selecting multiple photos from the Android gallery
+Supports image formats such as JPG, PNG, WebP, and HEIC/HEIF
+Displays photo previews with the option to delete individual images
+Updated "Submit" to actually transmit FormData
+Displays real-time upload progress and error messages
+Retains existing functionality
